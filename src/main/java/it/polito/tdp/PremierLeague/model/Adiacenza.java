@@ -1,5 +1,5 @@
 package it.polito.tdp.PremierLeague.model;
-
+//ciao
 public class Adiacenza {
 	private Player p1;
 	private Player p2;
